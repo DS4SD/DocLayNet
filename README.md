@@ -395,7 +395,7 @@ ArXiv link: https://arxiv.org/abs/2206.01062
 ```
 @article{doclaynet2022,
   title = {DocLayNet: A Large Human-Annotated Dataset for Document-Layout Analysis},  
-  doi = {10.48550/ARXIV.2206.01062},
+  doi = {10.1145/3534678.353904},
   url = {https://arxiv.org/abs/2206.01062},
   author = {Pfitzmann, Birgit and Auer, Christoph and Dolfi, Michele and Nassar, Ahmed S and Staar, Peter W J},
   year = {2022}
