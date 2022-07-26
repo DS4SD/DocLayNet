@@ -15,8 +15,6 @@ DocLayNet provides page-by-page layout segmentation ground-truth using bounding-
 
 ## Download
 
-<summary>v1.0.0</summary>
-
 | Dataset | Records | Size(GB) | URL  |
 |------------------|---------|----------|-------------|
 | DocLayNet core dataset| 80,863    | X     | [TBD](https://)|
@@ -94,14 +92,16 @@ Each COCO image record contains additional custom fields to allow data sub-selec
 ```
 
 The `doc_category` field uses one of the following constants:
-```[
+
+```
 financial_reports,
 scientific_articles,
 laws_and_regulations,
 government_tenders,
 manuals,
 patents
-]```
+```
+
 
 #### Example COCO annotation records
 
