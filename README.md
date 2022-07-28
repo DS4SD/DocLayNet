@@ -17,8 +17,8 @@ DocLayNet provides page-by-page layout segmentation ground-truth using bounding-
 
 | Dataset | Records | Size(GB) | URL  |
 |------------------|---------|----------|-------------|
-| DocLayNet core dataset| 80,863    | X     | [TBD](https://)|
-| DocLayNet extra files| 80,863    | X     | [TBD](https://)|
+| DocLayNet core dataset| 80,863    | 28 GiB     | [TBD](https://)|
+| DocLayNet extra files| 80,863    | 7.5 GiB     | [TBD](https://)|
 
 
 ## Dataset structure
