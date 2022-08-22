@@ -20,6 +20,7 @@ DocLayNet provides page-by-page layout segmentation ground-truth using bounding-
 | DocLayNet core dataset| 80,863    | 28 GiB     | [Download](https://codait-cos-dax.s3.us.cloud-object-storage.appdomain.cloud/dax-doclaynet/1.0.0/DocLayNet_core.zip)|
 | DocLayNet extra files| 80,863    | 7.5 GiB     | [Download](https://codait-cos-dax.s3.us.cloud-object-storage.appdomain.cloud/dax-doclaynet/1.0.0/DocLayNet_extra.zip)|
 
+Additionally, we provide the labeling guideline used for training of the annotation experts [here](assets/DocLayNet_Labeling_Guide_Public.pdf). 
 
 ## Dataset structure
 
