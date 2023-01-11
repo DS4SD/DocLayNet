@@ -352,11 +352,11 @@ The snippet below shows part of the JSON data for the page shown further above. 
   },
   "cells": [ // all text cells in the digital PDF data
     {
-      // Bounding-box coordinates of text cells
-      // formatted as [x0,x1,y0,y1]
-      // where (x0,y0) is the lower-left corner and
-      //       (x1,y1) is the top-right corner
-      // in the coordinate space of (0,0, original_width, original_height)
+      // Bounding-box coordinates of text cells,
+      // formatted as [x,y,w,h] (same as COCO annotations)
+      // where (x,y) is the upper-left corner and
+      //       (w,h) is the width and height
+      // in the coordinate space of (0,0, coco_width, coco_height)
       "bbox": [
         66.99346405228758,
         112.10344760101009,
