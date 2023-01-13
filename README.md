@@ -2,6 +2,11 @@
 
 DocLayNet is a human-annotated document layout segmentation dataset containing `80863` pages from a broad variety of document sources.
 
+## News
+
+|   |    |
+| :---------- | :----------------------------------- |
+| **Jan. 13th, 2023**      | We are hosting a competition on layout segmentation in corporate documents in ICDAR 2023. Find the details in the [competition website](https://ds4sd.github.io/icdar23-doclaynet/). |
 
 ## Overview
 
