@@ -6,6 +6,7 @@ DocLayNet is a human-annotated document layout segmentation dataset containing `
 
 |   |    |
 | :---------- | :----------------------------------- |
+| **Jan. 26th, 2023**      | The DocLayNet dataset is available on Huggingface [ds4sd/DocLayNet](https://huggingface.co/datasets/ds4sd/DocLayNet). |
 | **Jan. 13th, 2023**      | We are hosting a competition on layout segmentation in corporate documents in ICDAR 2023. Find the details in the [competition website](https://ds4sd.github.io/icdar23-doclaynet/). |
 
 ## Overview
@@ -17,6 +18,32 @@ DocLayNet provides page-by-page layout segmentation ground-truth using bounding-
 3. *Detailed label set*: DocLayNet defines 11 class labels to distinguish layout features in high detail.
 4. *Redundant annotations*: A fraction of the pages in DocLayNet are double- or triple-annotated, allowing to estimate annotation uncertainty and an upper-bound of achievable prediction accuracy with ML models
 5. *Pre-defined train- test- and validation-sets*: DocLayNet provides fixed sets for each to ensure proportional representation of the class-labels and avoid leakage of unique layout styles across the sets.
+
+## Using the dataset with Huggingface
+
+The DocLayNet dataset is available on Huggingface at [ds4sd/DocLayNet](https://huggingface.co/datasets/ds4sd/DocLayNet).
+
+```py
+>>> from datasets import load_dataset
+
+>>> dataset = load_dataset("ds4sd/DocLayNet")
+
+>>> dataset
+DatasetDict({
+    train: Dataset({
+        features: ['image_id', 'image', 'width', 'height', 'doc_category', 'collection', 'doc_name', 'page_no', 'objects'],
+        num_rows: 69375
+    })
+    validation: Dataset({
+        features: ['image_id', 'image', 'width', 'height', 'doc_category', 'collection', 'doc_name', 'page_no', 'objects'],
+        num_rows: 6489
+    })
+    test: Dataset({
+        features: ['image_id', 'image', 'width', 'height', 'doc_category', 'collection', 'doc_name', 'page_no', 'objects'],
+        num_rows: 4999
+    })
+})
+```
 
 ## Download
 
