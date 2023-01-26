@@ -6,7 +6,7 @@ DocLayNet is a human-annotated document layout segmentation dataset containing `
 
 |   |    |
 | :---------- | :----------------------------------- |
-| **Jan. 26th, 2023**      | The DocLayNet dataset is available on Huggingface [ds4sd/DocLayNet](https://huggingface.co/datasets/ds4sd/DocLayNet). |
+| **Jan. 26th, 2023**      | The DocLayNet dataset is available on Hugging Face [ds4sd/DocLayNet](https://huggingface.co/datasets/ds4sd/DocLayNet). |
 | **Jan. 13th, 2023**      | We are hosting a competition on layout segmentation in corporate documents in ICDAR 2023. Find the details in the [competition website](https://ds4sd.github.io/icdar23-doclaynet/). |
 
 ## Overview
@@ -19,9 +19,9 @@ DocLayNet provides page-by-page layout segmentation ground-truth using bounding-
 4. *Redundant annotations*: A fraction of the pages in DocLayNet are double- or triple-annotated, allowing to estimate annotation uncertainty and an upper-bound of achievable prediction accuracy with ML models
 5. *Pre-defined train- test- and validation-sets*: DocLayNet provides fixed sets for each to ensure proportional representation of the class-labels and avoid leakage of unique layout styles across the sets.
 
-## Using the dataset with Huggingface
+## Using the dataset with :hugs: Hugging Face
 
-The DocLayNet dataset is available on Huggingface at [ds4sd/DocLayNet](https://huggingface.co/datasets/ds4sd/DocLayNet).
+The DocLayNet dataset is available on Hugging Face at [ds4sd/DocLayNet](https://huggingface.co/datasets/ds4sd/DocLayNet).
 
 ```py
 >>> from datasets import load_dataset
