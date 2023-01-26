@@ -1,201 +1,85 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+Community Data License Agreement – Permissive – Version 1.0
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+This is the Community Data License Agreement – Permissive, Version 1.0 (“Agreement”).  Data is provided to You under this Agreement by each of the Data Providers.  Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.
 
-   1. Definitions.
+The benefits that each Data Provider receives from making Data available and that You receive from Data or otherwise under these terms and conditions shall be deemed sufficient consideration for the formation of this Agreement.  Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+Section 1.  Definitions
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+1.1 “Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.”  Additions do not include Results.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+1.2 “Computational Use” means Your analysis (through the use of computational devices or otherwise) or other interpretation of Data.  By way of example and not limitation, “Computational Use” includes the application of any computational analytical technique, the purpose of which is the analysis of any Data in digital form to generate information about Data such as patterns, trends, correlations, inferences, insights and attributes.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+1.3 “Data” means the information (including copyrightable information, such as images or text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+1.4 “Data Provider” means any Entity (including any employee or contractor of such Entity authorized to Publish Data on behalf of such Entity) that Publishes Data under this Agreement prior to Your Receiving it.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+1.5 “Enhanced Data” means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+1.6 “Entity” means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.  For the purposes of this definition, “control” means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+1.7 “Modify” means to delete, erase, correct or re-arrange Data, resulting in “Modifications.”  Modifications do not include Results.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+1.8 “Publish” means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access.  For any form of Entity, that is to make the Data available to any individual who is not employed by that Entity or engaged as a contractor or agent to perform work on that Entity’s behalf.  A “Publication” occurs each time You Publish Data.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+1.9 “Receive” or “Receives” means to have been given access to Data, locally or remotely.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+1.10 “Results” means the outcomes or outputs that You obtain from Your Computational Use of Data.  Results shall not include more than a de minimis portion of the Data on which the Computational Use is based.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+1.11 “Sui Generis Database Rights” means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights anywhere in the world.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+1.12 “Use” means using Data (including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it), either by machines or humans, or a combination of both.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+1.13 “You” or “Your” means any Entity that Receives Data under this Agreement.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+Section 2.  Right and License to Use and to Publish
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+2.1 Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s) to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+2.2 To the extent that the Data or the coordination, selection or arrangement of Data is protected or protectable under copyright, Sui Generis Database Rights, or other law, Data Provider(s) further agree(s) that such Data or coordination, selection or arrangement is hereby licensed to You and to anyone else who Receives Data under this Agreement for Use and Publication, subject to the conditions set forth in Section 3 of this Agreement.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+2.3 Except for these rights and licenses expressly granted, no other intellectual property rights are granted or should be implied.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+Section 3.  Conditions on Rights Granted
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+3.1 If You Publish Data You Receive or Enhanced Data:
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+(a) You may do so under a license of Your choice provided that You give anyone who Receives the Data from You the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement; and
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+(b) You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those files; and
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+(c) If You Publish Data You Receive, You must preserve all credit or attribution to the Data Provider(s). Such retained credit or attribution includes any of the following to the extent they exist in Data as You have Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.
 
-   END OF TERMS AND CONDITIONS
+3.2 You may provide additional or different license terms and conditions for use, reproduction, or distribution of that Enhanced Data, or for any combination of Data and Enhanced Data as a whole, provided that Your Use and Publication of that combined Data otherwise complies with the conditions stated in this License.
 
-   APPENDIX: How to apply the Apache License to your work.
+3.3 You and each Data Provider agree that Enhanced Data shall not be considered a work of joint authorship by virtue of its relationship to Data licensed under this Agreement and shall not require either any obligation of accounting to or the consent of any Data Provider.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+3.4 This Agreement imposes no obligations or restrictions on Your Use or Publication of Results.
 
-   Copyright [yyyy] [name of copyright owner]
+Section 4.  Data Provider(s)’ Representations
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+4.1 Each Data Provider represents that the Data Provider has exercised reasonable care, to assure that: (a) the Data it Publishes was created or generated by it or was obtained from others with the right to Publish the Data under this Agreement; and (b) Publication of such Data does not violate any privacy or confidentiality obligation undertaken by the Data Provider.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+Section 5.  Termination
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+5.1 All of Your rights under this Agreement will terminate, and Your right to Receive, Use or Publish the Data will be revoked or modified if You materially fail to comply with the terms and conditions of this Agreement and You do not cure such failure in a reasonable period of time after becoming aware of such noncompliance.  If Your rights under this Agreement terminate, You agree to cease Receipt, Use and Publication of Data.  However, Your obligations and any rights and permissions granted by You under this Agreement relating to Data that You Published prior to such termination will continue and survive.
+
+5.2 If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate as of the date such litigation is filed.
+
+Section 6.  Disclaimer of Warranties and Limitation of Liability
+
+6.1 EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA (INCLUDING ENHANCED DATA) IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+6.2 NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Section 7.  Miscellaneous
+
+7.1 You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication of Data, including any applicable privacy, data protection, security and export laws.  You agree to take reasonable steps to assist a Data Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.
+
+7.2 You and Data Provider(s), collectively and individually, waive and/or agree not to assert, to the extent permitted by law, any moral rights You or they hold in Data.
+
+7.3 This Agreement confers no rights or remedies upon any person or entity other than the Parties and their respective heirs, executors, successors and assigns.
+
+7.4 The Data Provider(s) reserve no right or expectation of privacy, data protection or confidentiality in any Data that they Publish under this Agreement.  If You choose to Publish Data under this Agreement, You similarly do so with no reservation or expectation of any rights of privacy or confidentiality in that Data.
+
+7.5 The Community Data License Agreement workgroup under The Linux Foundation is the steward of this Agreement (“Steward”).  No one other than the Steward has the right to modify or publish new versions of this Agreement.  Each version will be given a distinguishing version number.  You may Use and Publish Data Received hereunder under the terms of the version of the Agreement under which You originally Received the Data, or under the terms of any subsequent version published by the Steward.
